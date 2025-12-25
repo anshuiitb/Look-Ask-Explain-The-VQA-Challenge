@@ -1,0 +1,47 @@
+# Ignore datasets
+Week1/Week1-Assignment/data/
+Week2/Tweets.csv
+
+Week2/bert_imdb_sentiment_model
+Week1/OpenCV-course/Resources
+
+
+# Ignore large archives
+*.tar.gz
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+
+# Environments
+env/
+venv/
+__pycache__/
+
+# Data & models
+*.csv
+*.parquet
+*.npy
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Training outputs
+Week2\results
+
+# Media / datasets
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+
+# Notebook junk
+.ipynb_checkpoints/
+
+Week2\bert_imdb_sentiment_model
