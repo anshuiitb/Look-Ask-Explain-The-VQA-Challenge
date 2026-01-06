@@ -1,7 +1,7 @@
 # Ask the Image - Analytics Club Project
 
 ## Project Overview
-This repository contains coursework and projects completed as part of the Analytics Club mentorship program. The project focuses on computer vision and natural language processing techniques.
+The project focuses on computer vision and natural language processing techniques.
 
 ## Repository Structure
 
