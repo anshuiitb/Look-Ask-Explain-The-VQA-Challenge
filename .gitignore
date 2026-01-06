@@ -45,3 +45,5 @@ Week2\results
 .ipynb_checkpoints/
 
 Week2\bert_imdb_sentiment_model
+Week2\Tweets.csv
+Week2/SMSSpamCollection.txt
